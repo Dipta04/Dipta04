@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-7eb93.web.app/](https://portfolio-7eb93.web.app/)
+- 👨‍💻 All of my projects are available at [https://dipta.vercel.app/]
 
 - 💬 Ask me about **Web development, MERN Stack**
 
