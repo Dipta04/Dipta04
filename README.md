@@ -3,7 +3,7 @@
 
 <p align="left"> "dipta04" </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipta04" alt="dipta04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">"dipta04"</a> </p>
 
 - 🌱 I’m currently learning **ML/AI**
 
