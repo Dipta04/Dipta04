@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipta</h1>
 <h3 align="center">A passionate computer science student from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipta04&label=Profile%20views&color=0e75b6&style=flat" alt="dipta04" /> </p>
+<p align="left"> "dipta04" </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipta04" alt="dipta04" /></a> </p>
 
