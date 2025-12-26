@@ -28,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipta04&show_icons=true&locale=en" alt="dipta04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipta04&" alt="dipta04" /></p>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipta04&show_icons=true&theme=tokyonight&count_private=true&token=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)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipta04&layout=compact&theme=tokyonight&token=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)
+
