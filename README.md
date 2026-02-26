@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://dipta.vercel.app/](https://dipta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dipta-karmakar.vercel.app/](https://dipta-karmakar.vercel.app/)
 
 - 💬 Ask me about **MERN stack, AI/ML topics**
 
